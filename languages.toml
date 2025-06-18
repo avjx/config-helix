@@ -1,0 +1,23 @@
+[[language]]
+name = "go"
+language-servers = ["gopls"]
+
+[[language]]
+name = "javascript"
+language-servers = ["typescript-language-server"]
+
+[[language]]
+name = "html"
+language-servers = ["vscode-html-language-server"]
+
+[[language]]
+name = "css"
+language-servers = ["vscode-css-language-server"]
+
+[[language]]
+name = "python"
+language-servers = ["pyright"]
+
+[[language]]
+name = "sql"
+language-servers = ["sqls"]
