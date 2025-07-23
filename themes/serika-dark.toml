@@ -38,7 +38,7 @@
 "ui.cursor.match" = { fg = "grey3", bg = "grey2" }
 "ui.cursor.insert" = { fg = "bg0", bg = "bg_yellow" }
 "ui.cursor.select" = { fg = "bg0", bg = "bg_yellow" }
-"ui.linenr" = "#598fe0"
+"ui.linenr" = "#6c809b"
 "ui.linenr.selected" = { fg = "fg", modifiers = ["bold"] }
 "ui.statusline" = { fg = "grey1", bg = "bg2" }
 "ui.statusline.inactive" = { fg = "grey2", bg = "bg1" }
