@@ -1,0 +1,27 @@
+[[language]]
+name = "go"
+language-servers = ["gopls"]
+
+[[language]]
+name = "javascript"
+language-servers = ["typescript-language-server"]
+indent = { tab-width = 4, unit="\t"}
+
+[[language]]
+name = "html"
+language-servers = ["vscode-html-language-server"]
+indent = { tab-width = 4, unit="\t"}
+
+[[language]]
+name = "css"
+language-servers = ["vscode-css-language-server"]
+indent = { tab-width = 4, unit="\t"}
+
+[[language]]
+name = "python"
+language-servers = ["pyright"]
+indent = { tab-width = 4, unit=" "}
+
+[[language]]
+name = "sql"
+language-servers = ["sqls"]
